@@ -1,1 +1,5 @@
-# do_an_dothi_D20
+# Đồ án minh hoạ thuật toán đồ thị 
+Tác giả
++ Đoàn Trung Kiên
++ Trương Thái Hoàng
++ Nguyễn Phước Duy Thịnh
